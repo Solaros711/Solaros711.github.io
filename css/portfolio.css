@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.contact{
+    color: white;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.content-wrap{
+    padding-bottom: 2.5rem;
+}
+
+.dropdown-menu{
+    background-color: #414141;
+}
+
+.dropdown-item{
+    color: white;
+}
+
+.dropdown-item:hover{
+    color: white;
+    background-color: #636363;
+}
+
+.footer{
+    background-color: #414141;
+    bottom: 0;
+    height: 2.5rem;
+    position: absolute;
+    width: 100%;
+}
+
+.nav-item:hover{
+    background-color: #414141;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+}
