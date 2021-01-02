@@ -45,3 +45,23 @@ body{
 .nav-link:hover{
     color: white;
 }
+
+.test{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    animation-name: test;
+    animation-duration: 2s;
+}
+
+@keyframes test{
+    0% {background-color: red; 
+        left:-40px;
+        top: 0px;
+    }
+    100% {
+        background-color: green;
+        left: 0px;
+        top: 0px;
+    }
+}
